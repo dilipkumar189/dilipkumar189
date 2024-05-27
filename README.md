@@ -20,7 +20,7 @@
         <td align="center">
                 <h2>
                     <samp>&gt; Hey There!, I am
-                        <b><a target="_blank" href="https://github.com/ad956">Anand Suthar</a></b>
+                        <b><a target="_blank" href="https://github.com/dilipkumar189">Dilip Suthar</a></b>
                     </samp>
                 </h2>
                 <p>
@@ -57,7 +57,7 @@
 <!-- About Section -->
 # About me
 #### 💼 What I Do
-- 👨‍💻 I am a Full Stack Developer specializing in MERN (MongoDB, Express.js, React, Node.js) and Flutter.
+- 👨‍💻 I am a Full Stack Developer specializing in MERN (MongoDB, Express.js, React, Node.js).
 - 🚀 I'm passionate about creating innovative solutions and have hands-on experience building projects and products across various technologies.
 #### 🌱 What I'm Learning
 I'm currently focused on mastering:
