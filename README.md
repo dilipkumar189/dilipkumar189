@@ -82,13 +82,4 @@
 
 ###
 
-
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/dilipkumar189/dilipkumar189/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
-
-###
